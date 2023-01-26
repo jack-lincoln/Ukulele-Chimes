@@ -1,9 +1,18 @@
 # Ukulele-Chimes
 
+The primary function of Ukulele Chimes is to replicate the sound of wind chimes using pre-recorded audio from a ukulele. The notes of a given musical scale are played at random intervals. The familiar-sounding major scale is used by default, although many other scales may be used. Each scale has its own "modes" (the same sequence of notes as the respective scale, although a different note of the scale is used at the tonal center). Aditionally, the tonic may be changed to any one of the twelve notes used in Western music. This allows for thousands of options.
+
+## Requirements
+Ukulele Chimes requires the following packages to run:<br />
+* numpy<br />
+* PyQt5<br />
+* pygame<br />
+
+## Controls
    **Play Chime** - The notes of the scale are played at random<br />
    **Play Scale** - The notes of the scale are played as quarter notes in ascending order<br />
    **Reset All** - All settings are returned to their default state<br />
-   **Root Dial** - Adjusts the root note of the scale<br />
+   **Tonic Dial** - Adjusts the tonic note of the scale<br />
    **Scale Combo Box** - Select the scale<br />
    **Mode Slider** - Select the mode of the current scale<br />
    **Drone Volume Sliders** - Adjust the volume of the drone notes (based on the root and the fifth of the scale)<br />
