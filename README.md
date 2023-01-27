@@ -1,5 +1,7 @@
 # Ukulele-Chimes
 
+![GUI_screenshot_01](https://user-images.githubusercontent.com/65179426/214991660-c28c5ab2-bce6-442e-869c-910f149b2655.jpg)
+
 The primary function of Ukulele Chimes is to replicate the sound of wind chimes using pre-recorded audio from a ukulele. The notes of a given musical scale are played at random intervals. The user also has the option to hear the selected scale in ascending order. The familiar-sounding major scale is used by default, although many other scales may be used. Each scale has its own "modes" (the same sequence of notes as the respective scale, although a different note of the scale is used at the tonal center). Aditionally, the tonic may be changed to any one of the twelve notes used in Western music. This allows for thousands of options. The current tonic, scale, mode, and name of the mode (when appicable) is shown in the center of the user interface window.
 
 Each of the twelve possible notes in the octave also has its own volume slider. Setting a note's volume to "0" in any given scale may result in even more possibilities when using the chime function.
@@ -25,3 +27,6 @@ Ukulele Chimes requires the following packages to run:<br />
 
    **Keys 1-8** - For most scales, each note of the current note set may be played manually using these keys.
         If a scale has more than eight notes, keys 9, 0, -, =, and BACKSPACE are incorporated.
+        
+  ![GUI_screenshot_02](https://user-images.githubusercontent.com/65179426/214991695-10e759ae-c33e-4165-b86b-e9b53634094d.jpg)
+
