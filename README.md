@@ -17,7 +17,7 @@ Ukulele Chimes requires the following packages to run:<br />
 * pygame<br />
 
 ## Controls
-   **Play Chime** - The notes of the scale are played at random<br />
+   **Play/Stop Chime** - The notes of the scale are played at random<br />
    **Play Scale** - The notes of the scale are played as quarter notes in ascending order<br />
    **Reset All** - All settings are returned to their default state<br />
    **Tonic Dial** - Adjusts the tonic note of the scale<br />
