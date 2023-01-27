@@ -2,13 +2,13 @@
 
 ![GUI_screenshot_01](https://user-images.githubusercontent.com/65179426/214991660-c28c5ab2-bce6-442e-869c-910f149b2655.jpg)
 
-The primary function of Ukulele Chimes is to replicate the sound of wind chimes using pre-recorded audio from a ukulele. The notes of a given musical scale are played at random intervals. The user also has the option to hear the selected scale in ascending order. The familiar-sounding major scale is used by default, although many other scales may be used. Each scale has its own "modes" (the same sequence of notes as the respective scale, although a different note of the scale is used at the tonal center). 
-
-Additionally, the tonic may be changed to any one of the twelve notes used in Western music. This allows for thousands of options. The current tonic, scale, mode, and name of the mode (when appicable) is shown in the center of the user interface window.
+The primary function of Ukulele Chimes is to replicate the sound of wind chimes using pre-recorded audio from a ukulele. The notes of a given musical scale are played at random intervals. The user also has the option to hear the selected scale in ascending order. The familiar-sounding major scale is used by default, although many other scales may be used. Each scale has its own modes, which can be selected with a slider. Additionally, the tonic may be changed to any one of the twelve notes used in Western music. This allows for thousands of options. The current tonic, scale, mode, and name of the mode (when applicable) is shown in the center of the user interface window.
 
 Each of the twelve possible notes in the octave also has its own volume slider. Setting a note's volume to "0" in any given scale may result in even more possibilities when using the chime function.
 
-If you find yourself getting lost in an exotic scale or mode, their are drone notes that may be played in the background. Their is a drone for the tonic note, as well as the current scale's dominant note (in many cases, the fifth note in the scale).
+If you find yourself getting lost in an exotic scale, not knowing where the tonal center is, there are drone notes that may be played in the background. There is a drone for the tonic note, as well as the current scale's dominant note (in many cases, the fifth note in the scale).
+
+Ukulele Chimes may certainly be used if you want to have some relaxing, ambient music playing. It also may be used as an educational tool. The display labels corresponding to the twelve notes of the octave change color when available in the current scale. This is a great way to visualize the intervals between notes of different scales.
 
 ## Requirements
 Ukulele Chimes requires the following packages to run:<br />
