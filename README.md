@@ -16,6 +16,48 @@ Ukulele Chimes requires the following packages to run:<br />
 * PyQt5<br />
 * pygame<br />
 
+## Scale Options
+<b>Heptatonic:</b><br />
+* Major<br />
+* Minor<br />
+* Melodic Minor<br />
+* Harmonic Minor<br />
+* Harmonic Major<br />
+* Hungarian Minor<br />
+* Hungarian Major<br />
+* Neapolitan Minor<br />
+* Neapolitan Major<br />
+* Enigmatic Minor<br />
+* Enigmatic Major<br />
+* Composite II<br />
+* Ionian ♭5<br />
+* Locrian ♮7<br />
+* Persian<br />
+
+<b>Pentatonic:</b><br />
+* Major Pentatonic<br />
+* Minor Pentatonic<br />
+* Kumoi<br />
+* Hirajōshi<br />
+
+<b>Hexatonic:</b><br />
+* Whole Tone<br />
+* Blues<br />
+* Augmented<br />
+* Pelog<br />
+* Dominant Suspended<br />
+
+<b>Octatonic:</b><br />
+* Diminished<br />
+* Eight Tone Spanish<br />
+* Bebop Locrian ♮2<br />
+* Bebop Dominant<br />
+* Bebop Dorian<br />
+* Bebop Major<br />
+
+<b>Other:</b><br />
+* Chromatic
+
 ## Controls
    **Play/Stop Chime** - The notes of the scale are played at random<br />
    **Play Scale** - The notes of the scale are played as quarter notes in ascending order<br />
@@ -24,11 +66,11 @@ Ukulele Chimes requires the following packages to run:<br />
    **Scale Combo Box** - Select the scale<br />
    **Mode Slider** - Select the mode of the current scale<br />
    **Drone Volume Sliders** - Adjust the volume of the drone notes (based on the root and the fifth of the scale)<br />
-   **Note Volume Sliders** - Adjust the volume of each note. (While the scale is set to "Chromatic", adjusting the volume
-        sliders may allow for user-created scales when the "Play Chime" button is active.)<br />
+   **Note Volume Sliders** - Adjust the volume of each note. (While the scale is set to "Chromatic",<br />
+        &emsp;adjusting the volume sliders may allow for user-created scales when the "Play Chime" button is active.)<br />
 
-   **Keys 1-8** - For most scales, each note of the current note set may be played manually using these keys.
-        If a scale has more than eight notes, keys 9, 0, -, =, and BACKSPACE are incorporated.
+   **Keys 1-8** - For most scales, each note of the current note set may be played manually using these keys.<br />
+        &emsp;If a scale has more than eight notes, keys 9, 0, -, =, and BACKSPACE are incorporated.
         
   ![GUI_screenshot_02](https://user-images.githubusercontent.com/65179426/214991695-10e759ae-c33e-4165-b86b-e9b53634094d.jpg)
 
